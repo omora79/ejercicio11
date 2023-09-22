@@ -1,0 +1,13 @@
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.exe
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.deps.json
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.runtimeconfig.json
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.runtimeconfig.dev.json
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.dll
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\bin\Debug\netcoreapp3.1\alterno.pdb
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.AssemblyInfoInputs.cache
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.AssemblyInfo.cs
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.csproj.CoreCompileInputs.cache
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.dll
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.pdb
+C:\ReposLogic\Ejercicio6\ejercicio11\alterno\obj\Debug\netcoreapp3.1\alterno.genruntimeconfig.cache
